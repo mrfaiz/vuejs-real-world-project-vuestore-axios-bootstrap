@@ -1,10 +1,9 @@
-## FrontEnd part of Arches Project with VueJs ##
+## Standard Structure of Vue project
 
 ### Some Commands ###
-
-    1. Create new project : vue create project-name
-
-    2. Run project in 8080 port: npm run serve
+    1. Install vui/cli : npm install -g @vue/cli
+    2. Create new project : vue create project-name
+    3. Run project in 8080 port: npm run serve
 
 ### install bootstrap with vue ##
 
